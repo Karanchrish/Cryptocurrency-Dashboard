@@ -1,4 +1,4 @@
-# Cryptocurrency Dashboard - Power BI Report
+# Cryptocurrency Dashboard
 
 ## Overview
 This Power BI report provides a comprehensive analysis of the cryptocurrency market, focusing on several key metrics such as market capitalization, price highs and lows, average prices, and trading volumes. The dashboard enables users to filter data by specific cryptocurrencies, years, and months, allowing for detailed and customized insights.
